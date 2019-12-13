@@ -100,7 +100,7 @@
         "yamljs": "^0.3.0"
     },
     "publishConfig": {
-      "access": "public"
+        "access": "public"
     },
     "gren": "https://raw.githubusercontent.com/FEMessage/.github/master/.grenrc.js"
 }
