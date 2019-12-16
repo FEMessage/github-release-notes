@@ -1,6 +1,5 @@
 import { assert } from 'chai';
 import Program from '../lib/src/Program.js';
-import testCommand from 'commander';
 
 describe('Program', () => {
     const testCommand = new Program({
