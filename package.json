@@ -101,6 +101,5 @@
     },
     "publishConfig": {
         "access": "public"
-    },
-    "gren": "https://raw.githubusercontent.com/FEMessage/.github/master/.grenrc.js"
+    }
 }

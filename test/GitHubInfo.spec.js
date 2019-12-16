@@ -16,7 +16,7 @@ describe('GitHubInfo', () => {
 
     it('Should get repo and token informations', () => {
         githubInfo.repo.then(({ username, repo }) => {
-            assert.deepEqual(username, 'github-tools', 'Get username from repo\'s folder');
+            assert.deepEqual(username, 'FEMessage', 'Get username from repo\'s folder');
             assert.deepEqual(repo, 'github-release-notes', 'Get the repository name from repo\'s folder');
         });
 
