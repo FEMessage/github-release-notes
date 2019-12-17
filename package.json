@@ -10,7 +10,8 @@
         "options": "node tasks/_generate-options.js",
         "examples": "node tasks/_generate-examples.js",
         "docs": "npm run options && npm run examples && node_modules/.bin/jsdoc -c .jsdoc.conf.json --verbose",
-        "postinstall": "node ./_postinstall.js"
+        "postinstall": "node ./_postinstall.js",
+        "build": "gulp scripts"
     },
     "repository": {
         "type": "git",
