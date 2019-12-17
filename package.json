@@ -101,5 +101,6 @@
     },
     "publishConfig": {
         "access": "public"
-    }
+    },
+    "gren": "@femessage/grenrc"
 }
