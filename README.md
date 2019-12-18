@@ -8,6 +8,9 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/FEMessage/github-release-notes/pulls)
 [![Automated Release Notes by gren](https://img.shields.io/badge/%F0%9F%A4%96-release%20notes-00B2EE.svg)](https://github-tools.github.io/github-release-notes/)
 
+## Forked Features
+[support node modules config](https://github.com/FEMessage/github-release-notes/releases/tag/v0.19.0)
+
 ## Why
 
 [The motivation](https://www.yuque.com/docs/share/1fb077da-010c-4771-a1c0-e2507e018b9e)
